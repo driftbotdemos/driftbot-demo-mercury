@@ -1,0 +1,27 @@
+{
+  "script_hosts": [
+    "a.quora.com",
+    "acdn.mercury.com",
+    "connect.facebook.net",
+    "mercury.com",
+    "analytics.twitter.com",
+    "js.hs-analytics.net",
+    "js.hs-banner.com",
+    "js.hs-scripts.com",
+    "js.hscollectedforms.net",
+    "snap.licdn.com",
+    "static.ads-twitter.com",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "xhr_hosts": [
+    "aapi.mercury.com",
+    "forms.hubspot.com",
+    "sessions.bugsnag.com",
+    "stats.g.doubleclick.net"
+  ],
+  "websocket_hosts": [],
+  "webworker_hosts": [],
+  "obfuscated_script_hosts": [],
+  "suspicious_script_hosts": ["mercury.com"]
+}
