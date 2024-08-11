@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Docker Compose Up
-        run: docker-compose up -d
+        run: docker compose up -d
       - name: Install Node Packages
         run: yarn
       - name: Run Bot
